@@ -43,7 +43,13 @@ Este projeto segue um fluxo de versionamento colaborativo com base em **Pull Req
 
 ---
 
-## 💬 Convenções de Commits
+## Nome dos integrantes:
+
+- Ana Clara Ribeiro dos Santos
+- Arthur Ferreira Alves dos Santos
+- Bruno Bagattini Fernandes
+- Nathália dos Santos Cordeiro
+- Ulisses Ribeiro Abreu
 
 Todos os commits seguem o padrão **Conventional Commits**, como por exemplo:
 
